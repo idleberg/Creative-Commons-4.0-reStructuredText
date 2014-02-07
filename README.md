@@ -15,3 +15,6 @@ On November 25th, 2013, [Creative Commons](http://creativecommons.org/) announce
 ## Contribute
 
 If you notice any mistakes in content or formatting, please send a pull request with your correction.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/idleberg/creative-commons-4.0-restructuredtext/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
